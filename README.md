@@ -18,7 +18,7 @@ Once you have Node.js and Expo CLI installed, follow these steps to run the app:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/abdullahAnjum007/distance_speed.git
    ```
 
 2. Change to the project directory:
