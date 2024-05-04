@@ -23,7 +23,7 @@ Once you have Node.js and Expo CLI installed, follow these steps to run the app:
 
 2. Change to the project directory:
    ```bash
-   cd <project-directory>
+   cd distance_speed
    ```
 
 3. Install the project dependencies:
